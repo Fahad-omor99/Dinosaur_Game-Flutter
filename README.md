@@ -1,3 +1,3 @@
-# DINO GAME - FLUTTER
+# DINOSAUR GAME - FLUTTER
 - Quite easy to play
 - Simple syntex
